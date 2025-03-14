@@ -103,7 +103,7 @@
                    &kp LGUI  &kp LALT  &kp CAPS  &mo LOWER  &kp SPACE     &kp ENTER        &mo RAISE  &kp HOME  &kp END    &kp RGUI
             >;
 
-            sensor-bindings = <&fast_encoder>, <&inc_dec_kp PAGE_UP PAGE_DOWN>;
+            sensor-bindings = <&fast_encoder>, <&inc_dec_kp PAGE_DOWN PAGE_UP>;
         };
 
         lower_layer {
